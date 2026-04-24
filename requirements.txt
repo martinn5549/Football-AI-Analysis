@@ -1,0 +1,5 @@
+# THESE ARE THE REQUIREMENTS NEEDED
+
+Ultraylytics
+opencv-python
+matplotlib
